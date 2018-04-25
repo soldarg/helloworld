@@ -1,1 +1,3 @@
-NEW LINE
+The first line of the document
+The second line of the document
+We removed the conflict
