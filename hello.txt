@@ -2,3 +2,4 @@ The first line of the document
 The second line of the document
 We removed the conflict
 4th line added
+5th line added
